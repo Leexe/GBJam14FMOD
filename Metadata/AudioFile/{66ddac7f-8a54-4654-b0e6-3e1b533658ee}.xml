@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{66ddac7f-8a54-4654-b0e6-3e1b533658ee}">
+		<property name="assetPath">
+			<value>Fxs/Creatures incoming/Crab Attack.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.14399999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8b5cdd13-c1c9-488b-b4f2-2ec03f8a30fd}</destination>
+		</relationship>
+	</object>
+</objects>
