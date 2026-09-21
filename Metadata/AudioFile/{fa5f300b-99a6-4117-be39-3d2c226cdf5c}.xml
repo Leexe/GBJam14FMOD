@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{fa5f300b-99a6-4117-be39-3d2c226cdf5c}">
+		<property name="assetPath">
+			<value>Storytime.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>49.536000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8b5cdd13-c1c9-488b-b4f2-2ec03f8a30fd}</destination>
+		</relationship>
+	</object>
+</objects>
